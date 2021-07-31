@@ -5,7 +5,7 @@
 
 Название проекта|Описание проекта|используемые библиотеки
 -----------------------------|-----------------------------------------|------------------------
-[Введение в машиное обучение](https://github.com/vvtyurin/training_Data_scientist/tree/main/Introduction%20to%20Machine%20Learning)|
+[Введение в машиное обучение](https://github.com/vvtyurin/training_Data_scientist/tree/main/Introduction%20to%20Machine%20Learning)|1| pandas, sklearn
 [Обучение с учитетелем](https://github.com/vvtyurin/training_Data_scientist/tree/main/Training%20with%20a%20teacher)|
 [Машиное обучение в бизнесе](https://github.com/vvtyurin/training_Data_scientist/tree/main/Machine%20learning%20in%20business)|
 [Сборный проект (Восстановление золото из руды)](https://github.com/vvtyurin/training_Data_scientist/tree/main/Combined%20project%20-%201)|
