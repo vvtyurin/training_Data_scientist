@@ -3,7 +3,7 @@
 ## в данном репозитарии представлены следующие темы
 
 
-111|222|333
+Название проекта|Описание проекта|примененые библиотеки
 -----------------------------|-----------------------------------------|------------------------
 [Введение в машиное обучение](https://github.com/vvtyurin/training_Data_scientist/tree/main/Introduction%20to%20Machine%20Learning)|
 [Обучение с учитетелем](https://github.com/vvtyurin/training_Data_scientist/tree/main/Training%20with%20a%20teacher)|
