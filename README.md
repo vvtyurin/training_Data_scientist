@@ -5,12 +5,12 @@
 
 111|222|333
 -----------------------------|-----------------------------------------|------------------------
-[Введение в машиное обучение](https://praktikum.yandex.ru/profile/data-scientist/)|
-Обучение с учитетелем|
-Машиное обучение в бизнесе|
-Сборный проект (Восстановление золото из руды)|
-Линейная алгебра|
-Численные методы|
-Временные ряды|
-Машинное обучение для текстов|
-Компьютерное зрение|
+[Введение в машиное обучение](https://github.com/vvtyurin/training_Data_scientist/tree/main/Introduction%20to%20Machine%20Learning)|
+[Обучение с учитетелем](https://github.com/vvtyurin/training_Data_scientist/tree/main/Training%20with%20a%20teacher)|
+[Машиное обучение в бизнесе](https://github.com/vvtyurin/training_Data_scientist/tree/main/Machine%20learning%20in%20business)|
+[Сборный проект (Восстановление золото из руды)](https://github.com/vvtyurin/training_Data_scientist/tree/main/Combined%20project%20-%201)|
+[Линейная алгебра](https://github.com/vvtyurin/training_Data_scientist/tree/main/Linear%20Algebra)|
+[Численные методы](https://github.com/vvtyurin/training_Data_scientist/tree/main/Numerical%20methods)|
+[Временные ряды](https://github.com/vvtyurin/training_Data_scientist/tree/main/Time%20series)|
+[Машинное обучение для текстов](https://github.com/vvtyurin/training_Data_scientist/tree/main/Machine%20learning%20for%20texts)|
+[Компьютерное зрение](https://github.com/vvtyurin/training_Data_scientist/tree/main/Computer%20vision)|
